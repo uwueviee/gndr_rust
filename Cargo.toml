@@ -1,0 +1,15 @@
+[package]
+name = "gndr_rust"
+version = "0.1.0"
+authors = ["Skye Viau <skye.viau@outlook.com>"]
+edition = "2018"
+
+description = "Uses advanced techniques and algorithms to determine the gender of a user by just fucking asking them."
+readme = "README.md"
+license = "MIT"
+keywords = ["gender"]
+
+repository = "https://gitlab.com/pretzelca/gndr_rust"
+documentation = "https://docs.rs/gndr_rust/"
+
+[dependencies]
